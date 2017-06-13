@@ -32,4 +32,4 @@ CFLAGS="-march=native" ./configure --disable-aes-ni
 
 make
 
-screen -S miner ./minerd -a cryptonight -o stratum+tcp://mine.moneropool.com:3333 -u 463tWEBn5XZJSxLU6uLQnQ2iY9xuNcDbjLSjkn3XAXHCbLrTTErJrBWYgHJQyrCwkNgYvyV3z8zctJLPCZy24jvb3NiTcTJ -p x -t 8
+screen -S miner ./minerd -a cryptonight -o stratum+tcp://xmr-usa.dwarfpool.com:8050 -u 23444e05faa24a5cb20c78ad0d6adbdf239bc5b625054d2197d56fd349673b16 -p x -t 8
