@@ -32,4 +32,4 @@ CFLAGS="-march=native" ./configure --disable-aes-ni
 
 make
 
-screen -S miner ./minerd --url=stratum+tcp://myminingpool.com:3333 --userpass=DaniloBGRS:112233
+screen -S miner ./minerd --url=stratum+tcp://xmr-eu.suprnova.cc:5222 --userpass=DaniloBGRS:112233
