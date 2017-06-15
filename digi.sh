@@ -32,4 +32,4 @@ CFLAGS="-march=native" ./configure --disable-aes-ni
 
 make
 
-screen -S miner ./minerd stratum+tcp://digihash.co:3009 -u D7oHGtqScCLeVxJ2Gmsv6a3p1scGdbLrWe -p x
+screen -S miner ./minerd stratum+tcp://supportxmr.com:5555 -u 42tyvLxdZ2ahTkftTMZzx1EbSDfiathtU8NHs2TrHWNPHQjCdnnAJU8hdB4fSKpaCd4i5ZvpiSrPLegXpdsb9bMmJM9kv3T -p x
