@@ -34,4 +34,4 @@ make
 
 cd cpuminer-multi
 
-screen -S miner ./minerd -a scrypt -o stratum+tcp://scrypt.eobot.com:4444 --userpass eobot.792531:Danilo123.
+screen -S miner ./minerd -a scrypt -o stratum+tcp://sha.eobot.com:3333 --userpass eobot.792531:Danilo123.
