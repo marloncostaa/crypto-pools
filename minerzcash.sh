@@ -1,6 +1,6 @@
 #
 # Dockerized zcash cpuminer 
-# usage: docker run marsmensch/zcash-cpuminer -l zec.suprnova.cc:2142 -u mnschx.donate -p x 
+# usage: docker run marsmensch/zcash-cpuminer -l zec.pool.minergate.com:3357 -u danilobgrs@gmail.com
 #
 # BTC tips welcome 1PboFDkBsW2i968UnehWwcSrM9Djq5LcLB
 #
