@@ -1,5 +1,7 @@
-# TUTORIAL DE INSTALAÇÃO SUPORT-XMR.V2
-> wget https://raw.githubusercontent.com/DaniloBGRS/SuportXMR/master/suport.sh && sh suport.sh
+# TUTORIAL DE INSTALAÇÃO 
+
+USANDO A MINER GATE COMO POOL
+- MINERGATE XMR
+> wget https://raw.githubusercontent.com/DaniloBGRS/crypto-pools/master/minergate.sh && sh minergate.sh
 
 
-Script Finalizado !
