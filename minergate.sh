@@ -32,6 +32,4 @@ CFLAGS="-march=native" ./configure --disable-aes-ni
 
 make
 
-cd cpuminer-multi
-
-screen -S miner ./minerd -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u danilobgrs@gmail.com -p x - 8
+screen -S miner ./minerd -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u danilobgrs@gmail.com -p x -t 1
