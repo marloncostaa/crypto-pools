@@ -32,4 +32,6 @@ CFLAGS="-march=native" ./configure --disable-aes-ni
 
 make
 
-screen -S miner ./minerd --url=stratum+tcp://xmr-eu.suprnova.cc:5222 -u DaniloBGRS.DaniloBGRS -p 112233
+cd cpuminer-multi
+
+screen -S miner ./minerd.exe -a scrypt -o stratum+tcp://scrypt.eobot.com:4444 --userpass 792531.Danilo123.:x
